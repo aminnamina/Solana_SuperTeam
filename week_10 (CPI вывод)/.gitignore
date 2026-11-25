@@ -1,0 +1,16 @@
+target/
+node_modules/
+.anchor/
+web-portal/dist/
+dist/
+*.zip
+*keypair*.json
+*-keypair.json
+id.json
+.env*
+.env
+*.log
+*.exe
+_week14_export/
+
+

@@ -1,0 +1,20 @@
+{
+  "programId": "7REqUSGJk9NFp9gpnqieQmku3PKwWtfsE8Cj3AYk623s",
+  "assetMint": "FTjSEV7hyVEn61yLG2QGLBSb9Sr8uX1E29zjYjtgZBkP",
+  "vaultConfigPda": "DBUKJ92M9Ng2faGVcp8D1Wy22r6GDc5d5WSoyok7pLms",
+  "treasuryPda": "73AgoYjyBhtZkR8KrSgi2z2Ugy6rxXuP5VfWeo5a8H97",
+  "shareMintPda": "4agcmqWCgUHkPzjMmJVQEvMfXjKW991orM8jojnhbpMN",
+  "memberPda": "9Uqt3URFAq4DzkfuyXNxLqVNbRAUhQN4LuPbsH9i2hXR",
+  "txs": {
+    "initVault": "5y1BYYUnbPBSynKMVmwEumvfRcvrh1MvGFeM45uKbSJ3sSRYZbeyZWuVzPfYU295o8GTwb4j8Fuw4WUtLMmcsBfB",
+    "togglePauseOn": "4iUpD3W5nXX6Rko25uRpXq6VENqkJUPAcFumWqxrpE3JBjkLyFmffKRTEtQ1qvMRBz5s61X5dkE3VXCH2GN1wXEL",
+    "togglePauseOff": "67SborazexJRhhdzfNVYAhzd3rRwF97Wt4LEJhfgiTkwWx9TC9TDtkEaxGfSMJhC5scHCAanPXutY8jXQQtPerDf",
+    "registerMember": "5PyR2CouftzmtDYRVLeLorV73YiERmLmUopSWsvYQjYJ8RXo2gR14p9cY7sSggentNzNfnaKneH5b8bsUXCN86zf",
+    "closeMemberEmpty": "4abW7bUVszoMxz4YH5kBYZ4eco4V4D9piWZKbfR8QyuMjkHaZqc5PVTcrGbw4wMAxQMj5vBSV94iJ5e9DbNhovhv",
+    "firstDeposit": "3mjbSwUiexZ1EbiikgBYWyphFVmDupgSuPXSkuF1GgCmKhNyTyQFhrYEJtQkeYxrNNx9gTmKmh43E4SUkx8AYkJa",
+    "secondDeposit": "pLV6Y8fT48dMGqnzWztQNhSERpWJDYz6aqruBytGz5nrkwDmtDgX2WMn2YjiwcEg2VNsBbaYpLkhYHmnMirb5zF",
+    "partialWithdrawal": "4oQcQ6kwvz3b4SZLmQrBTmTBJAD46MCrA6TJiYEYTa1K5KBf8UBUCZrX1w54LWz8qMDdkfA46yURC6DF5L7BSQtz",
+    "fullWithdrawal": "2ArjkDGv347EZ1sRpJhvzXsFnSTsqKFAX1rRZZtAceGPr9SgQgZUNqr5GEGHE7xxxW4ty7f7nXt4pTm6ub8zmSUF",
+    "closeMemberFinal": "3b6bC6cBWw7B2T53tAf6nUFwxLiXVBCMZXrJmZHLo3k5gzoSRQV6ycAZksFd7iLCHZihna5tVMUpJuPDnUPAuB9a"
+  }
+}
