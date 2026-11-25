@@ -1,0 +1,50 @@
+{
+  "network": "devnet",
+  "tokens": {
+    "baseMint": "6frqPxC5jtzSk1P3eS6xqFvTq6yY5b2ujDwtw5w2g6A1",
+    "quoteMint": "B4EyXuMSht7WSreK4zzazUf7rLsSULSvBX2XuCbxnvy",
+    "decimals": 6
+  },
+  "txs": {
+    "createPool": "5dLyiwffWSwUFH7Bi6TD1ZguwAGvLp66uBPSA75CBZY4zTLENFp5svS98Vg8FJR7jNzZgaSY2Qk4yn2ysFHZPsTg",
+    "openPosition": "4cFYVgkhwx2hAfwWYqc8xwoVrXfv362JpmvRofcPKGQFLAFfGh6kQX25cFG61iNzKasEs6vLh9pEpPE4QBpwsWe8",
+    "configureSwapRoute": "3NL1siW36E4ZQXbfa5zvoQU7Qz5Y8m4trhvYu2jfHsXfjFWFoZ79ED6vzwgSGbFmQMkaV8gUdmsuGuxRJfgcsJFN",
+    "swapSuccess": "iHxPchUUWRrcQMAo1geawRCC8eXdF8Cvf2yzVS42XdfeZtwpN7JhXMoqqwCimcmENG9pq9bWw7fBonn365h2g63",
+    "swapFailed": "REJECTED_BY_SLIPPAGE_PROTECTION_6018",
+    "openVaultPosition": "3NYc5y9SmksGrPCgZCDDmUwLjuCKXWDUyVt4CtQMSfo6agFXqja6hjBW9PWLQkajAyWdA8KndUqRW71hsYpnRNLR",
+    "externalTrade_1795566333068": "4ofEzcfj9SGNmKJrcu8ifceSYTT5n3XeXjTGw56KzUqQV4Sj7j8TXXBDQoDdZFzFAwAwsdw3ihq5DBzrkTrW1PVp",
+    "externalTrade_1795566341781": "46twrj9GkbRpVmik951PjdxSe7EkrLekdF9csQVfDbDVXyk7oADy8Rtex55EDC3ZqUNzf4rEXhoFij1gio3Jwa3n",
+    "harvestFees": "3wzh9ThqiJjtmU5xVhihi196eNKm2FqBfd8GKm2LE49PquUWzd94XikB36rBWk9ko7pYpJMFZhEYe7FNsTKiQo3n",
+    "externalTrade_1795566369231": "2hRATdHZukFiz94v6QZzpdcgQw9zNUiE4D4cm7rAwRQv3GgxwHHProwkwCbwbjkZBhaL1tGjmai5sEALEK1KaJ2U",
+    "closePosition": "4GPNCmaWrdKMU4mJcN3UuceuUo9SXbcJBMugu4Jg8XL9jv7tGDsuLFpRC3uu7hRicNEk5nQUJd3fP5e89bL8VdHa",
+    "rebalancePosition": "3NYc5y9SmksGrPCgZCDDmUwLjuCKXWDUyVt4CtQMSfo6agFXqja6hjBW9PWLQkajAyWdA8KndUqRW71hsYpnRNLR",
+    "externalTrade_1795566404463": "5PhHLAvhJvUCs7uz6G39tPwNGDWFKWmVbyZbhHSfGX67jw3TU88cC1NRqJ6b7Tor9C4eB9KgH2FeUJwRYPPfKPm5",
+    "externalTrade_1795566408974": "2TZHNcMFBiUtbiANBuk2b9dxFoGW7C61oFHTJykpMtDBE9vwymSQQL62vzEsdzQGEiSd9SXe8co6ZkhBV3KicQPG"
+  },
+  "pool": {
+    "id": "GBbcu5ic5HRWaWqF5kwurkoE4xmEWCiujUGXK4CgfzHY",
+    "programId": "DRayAUgENGQBKVaX8owNhgzkEDyoHTGVEGHVJT1E9pfH",
+    "ammConfigId": "CD4aJtX11cqTCAc83nxSPkkh5JW2yjD6uwHeovjqQ1qu",
+    "mintA": "B4EyXuMSht7WSreK4zzazUf7rLsSULSvBX2XuCbxnvy",
+    "mintB": "6frqPxC5jtzSk1P3eS6xqFvTq6yY5b2ujDwtw5w2g6A1",
+    "vaultA": "6j31hhzMk4Sz5fPX1xLLNqeFGKJKxU5NqNhxpN3vq7ht",
+    "vaultB": "CfKrE7owDyw5ZVeyzTrVH7Yfxks6AQ5F8vTNoz7jdR8M",
+    "observationId": "CKnwW7VyKg2xd4EnnzL8jKhMC5yKX6zb5KRvf8GF7V5G",
+    "exBitmapAccount": "3shNNsVEAcmjQM9kxXarJySRBg6Ju58Vm4Heefs1foqH",
+    "initialPrice": 4
+  },
+  "vault": {
+    "programId": "CnBm8DNdWJ5WfTj92czXWm9PHad8fseYeWgBZ3535qkP",
+    "vaultPda": "7Bc2iVWad9gdcsa6KwMYH2gj4VK5KhNbnDwCzX4BCWDR",
+    "baseTreasury": "G94UboyVwtgYUEa6t3PW65D4X3z5y68v5Sdo3cFaEzZm",
+    "swapRoute": "6qAb2MhgrY9cSFSMki36bz3vAYWs4pNMToBdJwAxBBFW",
+    "quoteTreasury": "Dk1Xwbmq7gDArxtrC6NPjqRYqbaFMLFUPaMSx4gfuMrK"
+  },
+  "position": {
+    "nftMint": "He67U4RXazwJtAHuTyAkG2uzBEnNco3JT42Mk1heEyXf",
+    "tickLower": -13380,
+    "tickUpper": -12000,
+    "priceLower": "0.263092",
+    "priceUpper": "0.302698"
+  }
+}
