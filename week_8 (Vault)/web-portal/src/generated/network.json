@@ -1,0 +1,12 @@
+{
+  "network": "devnet",
+  "rpcUrl": "https://api.devnet.solana.com",
+  "programId": "CnBm8DNdWJ5WfTj92czXWm9PHad8fseYeWgBZ3535qkP",
+  "vaultPda": "7Bc2iVWad9gdcsa6KwMYH2gj4VK5KhNbnDwCzX4BCWDR",
+  "baseMint": "6frqPxC5jtzSk1P3eS6xqFvTq6yY5b2ujDwtw5w2g6A1",
+  "shareMint": "D3xocwAw7sQ8cjoiQbaGwgCNTKXf1W2RnvGU5fZAcu4E",
+  "vaultTokenAccount": "G94UboyVwtgYUEa6t3PW65D4X3z5y68v5Sdo3cFaEzZm",
+  "quoteMint": "B4EyXuMSht7WSreK4zzazUf7rLsSULSvBX2XuCbxnvy",
+  "poolId": "GBbcu5ic5HRWaWqF5kwurkoE4xmEWCiujUGXK4CgfzHY",
+  "decimals": 6
+}
